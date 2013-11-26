@@ -1,6 +1,6 @@
-# USNO::Eclipse::Lunar
+# USNO::Eclipse::Lunar [![Code Climate](https://codeclimate.com/github/rthbound/usno-eclipse-lunar.png)](https://codeclimate.com/github/rthbound/usno-eclipse-lunar)[![Coverage Status](https://coveralls.io/repos/rthbound/usno-eclipse-lunar/badge.png?branch=master)](https://coveralls.io/r/rthbound/usno-eclipse-lunar?branch=master)[![Build Status](https://travis-ci.org/rthbound/usno-eclipse-lunar.png?branch=master)](https://travis-ci.org/rthbound/usno-eclipse-lunar)
 
-TODO: Write a gem description
+Obtain the circumstances of recent and upcoming lunar eclipses for any location
 
 ## Installation
 
